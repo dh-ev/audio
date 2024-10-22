@@ -1,9 +1,0 @@
-*
-*/
-!.gitignore
-!BAUM2_data_files.py
-!BAUM2_data_files.tsv
-!data_dir.xlsx
-!DOI.10.1007_s11042-014-1986-2.pdf
-!EULA_BAUM2.docx
-!preclean.tsv
